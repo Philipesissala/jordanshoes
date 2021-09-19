@@ -8,7 +8,7 @@ const Header = () => {
       <header>
         <div className="promotion">Ganhe R$ 10,00 de desconto no frete</div>
         <div className="title">JordanShoes</div>
-        <div className="banner-content background">
+        <div className="banner-content">
           <div className="legende">
             <h1>A melhor loja de Jordan</h1>
             <p>
