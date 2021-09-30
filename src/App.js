@@ -4,6 +4,7 @@ import Header from "./Header";
 import "./global.css";
 import Card from "./Card";
 import Footer from "./Footer";
+
 import shoes1 from "./assets/air-jordan-1-high-zoom-cmft-tropical-twist-1-400.svg";
 import shoes2 from "./assets/air-jordan-1-mid-black-noble-red-w-1-1000.svg";
 import shoes3 from "./assets/air-jordan-1-mid-bright-citrus-1-1000 1.svg";

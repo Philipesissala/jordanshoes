@@ -21,26 +21,35 @@
 }
 
 .content header .banner-content {
-  max-width: 100%;
-  height: 290px;
-  padding: 90px 0 0 100px;
+  position: relative;
+  height: 377px;
   font-family: Montserrat, sans-serif;
   background: url("../assets/Air-Jordan-1-Retro-High-OG-Wmns-TWIST-Feminino 1.svg")
-  no-repeat;
+    no-repeat;
 }
 
-.content header .banner-content .legende {
+.content header .banner-content .overlay {
+  position: relative;
+  width: 100%;
+  height: 377px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content header .banner-content .overlay .legende {
+  position: absolute;
+  top: 70px;
+  left: 60px;
   max-width: 500px;
   color: #f6f6f6;
 }
 
-.content header .banner-content .legende h1 {
+.content header .banner-content .overlay .legende h1 {
   font-size: 32px;
   font-style: normal;
   font-weight: bold;
 }
 
-.content header .banner-content .legende p {
+.content header .banner-content .overlay .legende p {
   line-height: 196.19%;
   font-style: normal;
   font-weight: 600;
