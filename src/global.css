@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
 body {
   position: absolute;
   margin: 0;
@@ -35,4 +36,24 @@ body {
   max-width: 100%;
   flex-wrap: wrap;
   padding: 0 10px 0 10px;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .title-content {
+    width: 430px;
+    margin: 0 auto;
+    font-family: Montserrat, sans-serif;
+  }
+
+  .card-content {
+    background-color: #ebe9ea;
+    width: 300px;
+    height: 302px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 10px 10px 0px;
+  }
+
 }

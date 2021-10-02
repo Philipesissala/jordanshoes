@@ -7,3 +7,17 @@
   justify-content: center;
   margin: 30px 10px 10px 0px;
 }
+
+@media only screen and (max-width: 700px) {
+
+  .card-content {
+    background-color: #ebe9ea;
+    width: 420px;
+    height: 412px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 10px 10px 0px;
+  }
+
+}

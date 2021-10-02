@@ -21,11 +21,10 @@
 }
 
 .content header .banner-content {
-  position: relative;
-  height: 377px;
   font-family: Montserrat, sans-serif;
   background: url("../assets/Air-Jordan-1-Retro-High-OG-Wmns-TWIST-Feminino 1.svg")
     no-repeat;
+  background-size: cover;
 }
 
 .content header .banner-content .overlay {
@@ -46,6 +45,8 @@
 .content header .banner-content .overlay .legende h1 {
   font-size: 32px;
   font-style: normal;
+  line-height: 35.31px;
+  font-weight: 700;
   font-weight: bold;
 }
 
