@@ -1,4 +1,4 @@
-<h1 align="center">🤓Ask Me</h1>
+<h1 align="center">👟 JordanShoes</h1>
 
 <h1 id="sobre">Sobre</h1>
 <p align="center" >Jordanshoes é o segundo desafio proposto pela comunidade do Discord Codelândia</p>
