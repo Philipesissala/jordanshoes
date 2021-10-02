@@ -35,8 +35,6 @@ $ cd jordanshoes
 # Instale as dependências
 $ yarn add
 
-# Execute o arquivo perguntasBD.sql em sua SGBD
-
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
 
